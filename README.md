@@ -1,5 +1,5 @@
 # lab8
-praktikum web 8
+praktikum web 8 dan 9
 
 >##1. membuat database
 ![image](https://github.com/user-attachments/assets/4c68b20a-2ff1-4cc4-8077-14fd5f0e35b8)
