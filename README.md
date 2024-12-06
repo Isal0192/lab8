@@ -71,3 +71,9 @@ praktikum web 8 dan 9
      $result = mysqli_query($conn, $sql);
      header('location: index.php');
      ?>
+
+     
+>> tugas 9 membuat file templat untuk header dan footer yang dapat di panggil di halaman about dan halaman lain
+
+            <?php include 'footer.php'; ?>
+            dengan '' berisi halaman template
