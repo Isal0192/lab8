@@ -1,4 +1,4 @@
-# lab8
+# lab8 dan 9
 praktikum web 8 dan 9
 
 >##1. membuat database
